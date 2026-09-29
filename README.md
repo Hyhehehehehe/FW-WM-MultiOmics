@@ -8,6 +8,7 @@ The analytical workflow integrates data from the UK Biobank and Alzheimer’s Di
 The repository includes code for FW-WM estimation, genome-wide association studies (GWAS), polygenic risk score (PRS) analyses, phenome-wide association studies (PheWAS), longitudinal survival analyses, Mendelian randomization (MR), proteomic analyses, colocalization, mediation analyses, and sensitivity analyses.
 
 ## Repository Structure
+```text
 .
 ├── FW estimation/
 │   ├── FW_multishell.py
@@ -59,3 +60,4 @@ The repository includes code for FW-WM estimation, genome-wide association studi
 │   └── MB_SB_FW_correlation.R
 │
 └── README.md
+```
